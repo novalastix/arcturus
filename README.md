@@ -17,7 +17,7 @@ Automatically assigns user role on join.
 - discord.js
 
 ## How To Run
-1. Clone repository via `https://github.com/novalastix/NTRS.git`
+1. Clone repository via `https://github.com/novalastix/arcturus.git`
 2. Create `config.json` following the example `config-example.json`
 3. Run `npm ci` to install the node modules
 4. Run `node ./deploy-commands.js` to update the slash commands with the server
