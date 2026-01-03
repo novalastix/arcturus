@@ -1,4 +1,4 @@
-# NTRS
+# ARCTURUS - Discord Administration Bot
 
 ## Features
 Automatically assigns user role on join.
@@ -24,4 +24,4 @@ Automatically assigns user role on join.
 5. Run `node .` to run the bot and enjoy
 
 ## Links
-[source](https://github.com/novalastix/NTRS) | [donate](https://ko-fi.com/novalastix)
+[source](https://github.com/novalastix/arcturus) | [donate](https://ko-fi.com/novalastix)
