@@ -10,7 +10,7 @@ module.exports = {
         await interaction.deferReply({ ephemeral: true });
 
 		const statusEmbed = new EmbedBuilder()
-		.setTitle('Antares')
+		.setTitle('Arcturus')
 		.addFields(
 			{ name: 'Status', value: "<:online:1128811218342268988> Online"},
 			{ name: 'Features', value: "Automatically assigns default role"},
